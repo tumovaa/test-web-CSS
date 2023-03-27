@@ -94,7 +94,7 @@ body {
 .post {
   margin-bottom: 20px;
   padding: 20px;
-  background-color: #fff;
+  background-color: rgb(173, 173, 173);
   border: 5px solid #ccc;
 }
 
